@@ -1,4 +1,11 @@
 # basic-automation
+![image](https://github.com/Lerdy23/basic-automation/assets/134054981/fa891db6-6024-488d-a031-314e887c854b)
+![image](https://github.com/Lerdy23/basic-automation/assets/134054981/b37d5e35-f07f-45ba-99f3-84c09e83d027)
+![image](https://github.com/Lerdy23/basic-automation/assets/134054981/f7fa91df-2513-4e2e-ac45-a4608496e7d4)
+![image](https://github.com/Lerdy23/basic-automation/assets/134054981/6508e1c0-a67e-4bd6-9da4-59923e887f05)
+![image](https://github.com/Lerdy23/basic-automation/assets/134054981/3a24969c-ef8a-4f07-9032-fab4a054dfc6)
+
+
 
 
 ## Install requirements
